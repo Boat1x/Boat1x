@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="272" viewBox="0 0 1280 272" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Ryan Daich</title>
+  <desc id="description">Software engineering, security, and applied AI. A dark navy banner with a restrained geometric pattern.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="272" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111C2F"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="910" y1="44" x2="1190" y2="228" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67D5D0"/>
+      <stop offset="1" stop-color="#7E97FF"/>
+    </linearGradient>
+    <pattern id="grid" x="880" y="8" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8EA5C7" opacity="0.2"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="270" rx="20" fill="url(#background)" stroke="#293950" stroke-width="2"/>
+  <rect x="846" y="16" width="410" height="240" rx="12" fill="url(#grid)"/>
+  <rect x="52" y="48" width="42" height="4" rx="2" fill="#6ED6D0"/>
+  <text x="52" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="650" letter-spacing="-2" fill="#F4F7FC">Ryan Daich</text>
+  <text x="55" y="183" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#B9C7DD">Software engineering</text>
+  <circle cx="303" cy="175" r="2" fill="#6ED6D0"/>
+  <text x="322" y="183" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#B9C7DD">Security</text>
+  <circle cx="431" cy="175" r="2" fill="#6ED6D0"/>
+  <text x="450" y="183" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#B9C7DD">Applied AI</text>
+  <text x="55" y="226" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="2.4" fill="#7189AA">IDENTITY / DATA / COMPUTER VISION</text>
+  <g stroke="url(#accent)" stroke-width="1.5">
+    <rect x="941" y="55" width="152" height="152" rx="28" transform="rotate(-12 1017 131)" opacity="0.22"/>
+    <rect x="981" y="73" width="152" height="152" rx="28" transform="rotate(12 1057 149)" opacity="0.4"/>
+    <rect x="1005" y="93" width="72" height="72" rx="18" fill="#12253A"/>
+    <path d="M1041 113v32M1025 129h32" opacity="0.8"/>
+  </g>
+  <circle cx="941" cy="94" r="4" fill="#6ED6D0"/>
+  <circle cx="1158" cy="199" r="4" fill="#8AA2FC"/>
+</svg>
